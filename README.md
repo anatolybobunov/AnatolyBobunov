@@ -21,9 +21,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anatolybobunov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anatolybobunov/)](https://www.linkedin.com/in/anatolybobunov/)
 [![Telegram Badge](https://img.shields.io/badge/-anatoly_bobunov-white?style=flat&logo=Telegram&logoColor=blue&link=https://t.me/anatoly_bobunov)](https://t.me/anatoly_bobunov)
 [![Gmail Badge](https://img.shields.io/badge/-dev.bobunov@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.bobunov@gmail.com)](mailto:dev.bobunov@gmail.com)
-
-
-
+---
 <p style="display: flex; justify-content: center">
 <img style="border-radius: 15px; margin: auto;" alt="Anatoly Bobunov's Github stats" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AnatolyBobunov&show_icons=true&theme=default#gh-light-mode-only" />
 <img style="border-radius: 15px; margin: auto;" alt="Anatoly Bobunov's most used languages" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov&layout=compact" />
