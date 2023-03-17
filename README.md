@@ -19,16 +19,16 @@
 
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-anatolybobunov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anatolybobunov/)](https://www.linkedin.com/in/anatolybobunov/)
-[![Gmail Badge](https://img.shields.io/badge/-dev.bobunov@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.bobunov@gmail.com)](mailto:dev.bobunov@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-anatoly_bobunov-white?style=flat&logo=Telegram&logoColor=blue&link=https://t.me/anatoly_bobunov)](https://t.me/anatoly_bobunov)
+[![Gmail Badge](https://img.shields.io/badge/-dev.bobunov@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.bobunov@gmail.com)](mailto:dev.bobunov@gmail.com)
 
 
 
 ---
-<p style="display: flex">
+<p style="display: flex; justify-content: center">
 <img style="border-radius: 5px; margin-bottom: 10px" alt="Anatoly Bobunov's Github stats" width="400px" height="240px" src="https://github-readme-stats.vercel.app/api?username=AnatolyBobunov&show_icons=true&theme=default#gh-light-mode-only" />
-<img style="border-radius: 5px; margin: 0 0 10px 35px;" alt="Anatoly Bobunov's most used languages" width="400px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov&layout=compact" />
-<img style="border-radius: 5px; margin: 0 0 10px 35px;" alt="Anatoly Bobunov's Leetcode stats" width="400px" height="240px" src="https://leetcard.jacoblin.cool/AnatolyBobunov?theme=light" />
+<img style="border-radius: 5px; margin: 0 0 10px 15px;" alt="Anatoly Bobunov's most used languages" width="400px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov&layout=compact" />
+<img style="border-radius: 5px; margin: 0 0 10px 15px;" alt="Anatoly Bobunov's Leetcode stats" width="400px" height="240px" src="https://leetcard.jacoblin.cool/AnatolyBobunov?theme=light" />
 </p>
 
 
