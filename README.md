@@ -1,6 +1,7 @@
 ### About me
 
-
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+---
 ### Language and Tools
 ![Python](https://img.shields.io/badge/Python-eeeeee?style=flat&logo=python&logoColor=3776AB)
 ![Pytest](https://img.shields.io/badge/Pytest-eeeeee?style=flat&logo=pytest&logoColor=0A9EDC)
@@ -8,19 +9,30 @@
 ![Docker](https://img.shields.io/badge/Docker-eeeeee?style=flat&logo=docker&logoColor=2496ED)
 ![Swagger](https://img.shields.io/badge/Swagger-eeeeee?style=flat&logo=swagger)
 ![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=flat&logo=mysql&logoColor=00618a)
+![Git](https://img.shields.io/badge/Git-eeeeee?style=flat&logo=git)
 ![Gitlab](https://img.shields.io/badge/Gitlab-eeeeee?style=flat&logo=gitlab)
 ![Github](https://img.shields.io/badge/Github-eeeeee?style=flat&logo=github)
 ![Jenkins](https://img.shields.io/badge/Jenkins-eeeeee?style=flat&logo=jenkins)
+![Linux](https://img.shields.io/badge/Linux-eeeeee?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-eeeeee?style=flat&logo=windows)
+![Macos](https://img.shields.io/badge/Macos-eeeeee?style=flat&logo=macos)
 
-### Contacts
-[![Header](https://img.shields.io/badge/Gmail-eeeeee?style=for-the-badge&logo=gmail)](mailto:dev.bobunov@gmail.com)
-[![Header](https://img.shields.io/badge/Telegram-eeeeee?style=for-the-badge&logo=telegram)](https://t.me/anatoly_bobunov)
-[![Header](https://img.shields.io/badge/Linkedin-eeeeee?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anatolybobunov/)
+### Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-anatolybobunov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anatolybobunov/)](https://www.linkedin.com/in/anatolybobunov/)
+[![Gmail Badge](https://img.shields.io/badge/-dev.bobunov@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.bobunov@gmail.com)](mailto:dev.bobunov@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-anatoly_bobunov-white?style=flat&logo=Telegram&logoColor=blue&link=https://t.me/anatoly_bobunov)](https://t.me/anatoly_bobunov)
 
 
+
+---
 <p style="display: flex">
 <img style="border-radius: 5px; margin-bottom: 10px" alt="Anatoly Bobunov's Github stats" width="400px" height="240px" src="https://github-readme-stats.vercel.app/api?username=AnatolyBobunov&show_icons=true&theme=default#gh-light-mode-only" />
-<img style="border-radius: 5px; margin: 0 0 10px 35px;" alt="Anatoly Bobunov's most used languages" width="400px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov" />
-<img style="border-radius: 5px; margin: 0 0 10px 35px;" alt="Anatoly Bobunov's Leetcode stats" width="400px" height="240px" src="https://leetcard.jacoblin.cool/AnatolyBobunov" />
+<img style="border-radius: 5px; margin: 0 0 10px 35px;" alt="Anatoly Bobunov's most used languages" width="400px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov&layout=compact" />
+<img style="border-radius: 5px; margin: 0 0 10px 35px;" alt="Anatoly Bobunov's Leetcode stats" width="400px" height="240px" src="https://leetcard.jacoblin.cool/AnatolyBobunov?theme=light" />
 </p>
+
+
+<!--
+<img align="left" alt="Jenkins" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
+-->
 
