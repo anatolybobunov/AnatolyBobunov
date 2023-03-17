@@ -26,9 +26,9 @@
 
 ---
 <p style="display: flex; justify-content: center">
-<img style="border-radius: 5px; margin-bottom: 10px" alt="Anatoly Bobunov's Github stats" width="450px" height="200px" src="https://github-readme-stats.vercel.app/api?username=AnatolyBobunov&show_icons=true&theme=default#gh-light-mode-only" />
-<img style="border-radius: 5px; margin: 0 0 10px 15px;" alt="Anatoly Bobunov's most used languages" width="450px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov&layout=compact" />
-<img style="border-radius: 5px; margin: 0 0 10px 15px;" alt="Anatoly Bobunov's Leetcode stats" width="450px" height="200px" src="https://leetcard.jacoblin.cool/AnatolyBobunov?theme=light" />
+<img style="border-radius: 5px; margin-bottom: 10px" alt="Anatoly Bobunov's Github stats" width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=AnatolyBobunov&show_icons=true&theme=default#gh-light-mode-only" />
+<img style="border-radius: 5px; margin: 0 0 10px 15px;" alt="Anatoly Bobunov's most used languages" width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov&layout=compact" />
+<img style="border-radius: 5px; margin: 0 0 10px 15px;" alt="Anatoly Bobunov's Leetcode stats" width="400px" height="200px" src="https://leetcard.jacoblin.cool/AnatolyBobunov?theme=light" />
 </p>
 
 
