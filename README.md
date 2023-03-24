@@ -25,7 +25,7 @@
 [![Linux](https://img.shields.io/badge/Linux-eeeeee?style=flat&logo=linux)](https://en.wikipedia.org/wiki/Linux)
 [![Windows](https://img.shields.io/badge/Windows-eeeeee?style=flat&logo=windows&logoColor=00618a)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Macos](https://img.shields.io/badge/Macos-eeeeee?style=flat&logo=macos&logoColor=gray)](https://en.wikipedia.org/wiki/MacOS)
-
+<br></br>
 ---
 <p style="display: flex; justify-content: center">
 <img style="border-radius: 15px; margin: auto;" alt="Anatoly Bobunov's Github stats" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AnatolyBobunov&show_icons=true&theme=default#gh-light-mode-only" />
