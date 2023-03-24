@@ -29,7 +29,7 @@
 
 <p style="display: flex; justify-content: center">
 <img style="border-radius: 15px; margin: auto;" alt="Anatoly Bobunov's Github stats" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AnatolyBobunov&show_icons=true&theme=default#gh-light-mode-only" />
-<img style="border-radius: 15px; margin: auto; float: right;" alt="Anatoly Bobunov's most used languages" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov&layout=compact" /> 
+<img style="border-radius: 15px; margin: auto;" alt="Anatoly Bobunov's most used languages" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov&layout=compact" /> 
 </p>
 <p style="display: flex; justify-content: center">
 <img style="border-radius: 15px; margin: auto;" alt="Anatoly Bobunov's Leetcode stats" width="45%" height="100%" src="https://leetcard.jacoblin.cool/AnatolyBobunov?theme=light" />
