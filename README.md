@@ -1,16 +1,36 @@
-### I will update it later...
+### About me
 
-<!--
-**AnatolyBobunov/AnatolyBobunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-Here are some ideas to get you started:
+### Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-anatolybobunov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anatolybobunov/)](https://www.linkedin.com/in/anatolybobunov/)
+[![Telegram Badge](https://img.shields.io/badge/-anatoly_bobunov-white?style=flat&logo=Telegram&logoColor=blue&link=https://t.me/anatoly_bobunov)](https://t.me/anatoly_bobunov)
+[![Gmail Badge](https://img.shields.io/badge/-dev.bobunov@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.bobunov@gmail.com)](mailto:dev.bobunov@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Language and Tools
+
+[![Python](https://img.shields.io/badge/Python-eeeeee?style=flat&logo=python&logoColor=3776AB)](https://www.python.org)
+[![Pytest](https://img.shields.io/badge/Pytest-eeeeee?style=flat&logo=pytest&logoColor=0A9EDC)](https://docs.pytest.org/en/latest/)
+[![Jira](https://img.shields.io/badge/Jira-eeeeee?style=flat&logo=jira&logoColor=136be1)](https://www.atlassian.com/software/jira)
+[![Docker](https://img.shields.io/badge/Docker-eeeeee?style=flat&logo=docker&logoColor=2496ED)](https://www.docker.com)
+[![Swagger](https://img.shields.io/badge/Swagger-eeeeee?style=flat&logo=swagger)](https://swagger.io)
+[![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=flat&logo=mysql&logoColor=00618a)](https://www.mysql.com)
+[![Git](https://img.shields.io/badge/Git-eeeeee?style=flat&logo=git)](https://en.wikipedia.org/wiki/Git)
+[![Gitlab](https://img.shields.io/badge/Gitlab-eeeeee?style=flat&logo=gitlab)](https://about.gitlab.com)
+[![Github](https://img.shields.io/badge/Github-eeeeee?style=flat&logo=github)](https://github.com)
+[![Jenkins](https://img.shields.io/badge/Jenkins-eeeeee?style=flat&logo=jenkins)](https://www.jenkins.io)
+[![Linux](https://img.shields.io/badge/Linux-eeeeee?style=flat&logo=linux)](https://en.wikipedia.org/wiki/Linux)
+[![Windows](https://img.shields.io/badge/Windows-eeeeee?style=flat&logo=windows&logoColor=00618a)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+[![Macos](https://img.shields.io/badge/Macos-eeeeee?style=flat&logo=macos&logoColor=gray)](https://en.wikipedia.org/wiki/MacOS)
+
+---
+
+<p style="display: flex; justify-content: center">
+<img style="border-radius: 15px; margin: auto;" alt="Anatoly Bobunov's Github stats" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AnatolyBobunov&show_icons=true&theme=default#gh-light-mode-only" />
+<img style="border-radius: 15px; margin: auto;" alt="Anatoly Bobunov's most used languages" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyBobunov&layout=compact" /> 
+</p>
+<p style="display: flex; justify-content: center">
+<img style="border-radius: 15px; margin: auto;" alt="Anatoly Bobunov's Leetcode stats" width="45%" height="100%" src="https://leetcard.jacoblin.cool/AnatolyBobunov?theme=light" />
+</p>
